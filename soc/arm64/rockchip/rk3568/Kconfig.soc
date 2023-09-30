@@ -14,4 +14,3 @@ config SOC_RK3568
 	select GIC_V3
 
 endchoice
-

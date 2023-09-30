@@ -6,12 +6,12 @@ Firefly ROC-RK3568-PC (Quad-core Cortex-A55)
 Overview
 ********
 
-The ROC-RK3568-PC is a Quad-Core 64-Bit Mini Computer, which supports 4G large RAM. M.2 
-and SATA3.0 interfaces enables expansion with large hard drives. 
-Providing dual Gigabit Ethernet ports, it supports WiFi 6 wireless transmission. 
-Control Port can be connected with RS485/RS232 devices. 
+The ROC-RK3568-PC is a Quad-Core 64-Bit Mini Computer, which supports 4G large RAM. M.2
+and SATA3.0 interfaces enables expansion with large hard drives.
+Providing dual Gigabit Ethernet ports, it supports WiFi 6 wireless transmission.
+Control Port can be connected with RS485/RS232 devices.
 
-RK3568 quad-core 64-bit Cortex-A55 processor, with brand new ARM v8.2-A architecture, 
+RK3568 quad-core 64-bit Cortex-A55 processor, with brand new ARM v8.2-A architecture,
 has frequency up to 2.0GHz. Zephyr OS is ported to run on it.
 
 
@@ -33,7 +33,7 @@ has frequency up to 2.0GHz. Zephyr OS is ported to run on it.
     - Two USB 2.0
     - One Type-C
   - Ethernet
-  - M.2 PCIe3.0 (Expand with NVMe SSD) 
+  - M.2 PCIe3.0 (Expand with NVMe SSD)
   - LEDs:
 
     - 1x Power status LED
@@ -138,4 +138,3 @@ More information can refer to Firefly official website:
 
 .. _Firefly website:
    https://en.t-firefly.com/product/industry/rocrk3568pc.html?theme=pc
-

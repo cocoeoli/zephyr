@@ -1,7 +1,6 @@
 # Copyright 2022 HNU
 # Copyright 2022 openEuler SIG-Zephyr
 # SPDX-License-Identifier: Apache-2.0
-# it is a soc default config file 
 
 if SOC_RK3568
 
