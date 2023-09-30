@@ -26,8 +26,7 @@
 
 };
 
-/* debug */
 &uart2 {
-    status = "okay";
+	status = "okay";
 	current-speed = <1500000>;
 };
