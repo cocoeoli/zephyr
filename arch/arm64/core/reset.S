@@ -67,6 +67,7 @@ SECTION_SUBSEC_FUNC(TEXT,_reset_section,__reset_prep_c)
 
 	/* Set SP_EL1 */
 	msr     sp_el1, x24
+	msr		sp, x24
 
 	b	out
 1:
