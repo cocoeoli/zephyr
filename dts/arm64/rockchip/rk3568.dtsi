@@ -41,7 +41,7 @@
 			compatible = "arm,cortex-a55";
 			enable-method = "psci";
 			reg = <0x200>;
-	
+
 		};
 
 		cpu@300 {
